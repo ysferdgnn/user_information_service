@@ -1,0 +1,26 @@
+[
+    {
+        "ID":1,
+        "Definition": "Go"
+    },
+    {
+        "ID":2,
+        "Definition": "Java"
+    },
+    {
+        "ID":3,
+        "Definition": "C#"
+    },
+    {
+        "ID":4,
+        "Definition": "Spring Boot"
+    },
+    {
+        "ID":5,
+        "Definition": "Witcher 3"
+    },
+    {
+        "ID":6,
+        "Definition": "Cyberpunk"
+    }
+]
