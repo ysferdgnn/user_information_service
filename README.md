@@ -25,4 +25,6 @@ GET /usermapinterests
 GET /usermapinterests/
 GET /usermapinterests/id
 ```
+# USAGE
+run /cmd/main.go file
 
